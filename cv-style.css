@@ -1,0 +1,55 @@
+.page {
+    width: 780xp;
+    margin: auto;
+    font-family: 'Source sans Pro',Calibri, Tahoma, sans-serif;
+    font-size: 16px;
+}
+.infophoto {
+    height: 200px;
+    background-color: mediumvioletred;
+}
+
+
+.info{
+    margin-left: 250px;
+    font-size: 18px;
+}
+#presentation p{
+    margin-top: 40px;
+    color: mintcream;
+}
+.photo{
+    float: left;
+}
+.section{
+    margin-bottom: 50px;
+    text-align: justify;
+}
+h2{
+    font-size: 24px;
+    color: mediumblue;
+    border-bottom: 3px solid navy;
+}
+.NomEtablissement{
+    font-weight: bold;    
+}
+.Profil{
+    font-weight: bold;
+}
+.titre{
+    font-weight: bold;
+    font-style: italic;
+}
+.nom{
+    font-size: 24px;
+    font-weight: bold;
+    color: mintcream;
+}
+.monprofil{
+    font-size: 22px;
+    color: cornflowerblue;
+}
+.contact{
+    font-size: 16px;
+    margin-top: 20px;
+}
