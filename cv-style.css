@@ -54,6 +54,7 @@ h2{
     color: cornflowerblue;
 }
 .contact{
+    display: inline;
     font-size: 16px;
     margin-top: 20px;
 }
