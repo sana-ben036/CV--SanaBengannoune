@@ -36,12 +36,10 @@ h2{
     color: mediumblue;
     border-bottom: 3px solid navy;
 }
-.NomEtablissement{
+.NomEtablissement, .Profil{
     font-weight: bold;    
 }
-.Profil{
-    font-weight: bold;
-}
+
 .titre{
     font-weight: bold;
     font-style: italic;
